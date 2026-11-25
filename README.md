@@ -1,16 +1,40 @@
-## Hi there 👋
 
-<!--
-**hemalathav875-cpu/hemalathav875-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Hemalatha! 👋
 
-Here are some ideas to get you started:
+🎓 Second Year B.Tech Artificial Intelligence and Data Science Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏫 Saveetha Engineering College, Chennai
+
+## About Me
+- I am interested in Artificial Intelligence and Data Science.
+- I enjoy learning programming and new technologies.
+- I like exploring Machine Learning and Deep Learning.
+- I am interested in developing practical projects.
+
+## Technical Skills
+- Python
+- C Programming
+- HTML
+- CSS
+
+
+## Currently Learning
+- Artificial Intelligence
+- Data Science
+- Computer Vision
+- Web Development
+- Git and GitHub
+
+## My Goals
+- Improve my programming skills.
+- Build practical projects.
+- Participate in technical activities.
+- Gain knowledge through continuous learning.
+
+## Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/hemalatha-v-43987237b
+
+💻 GitHub: https://github.com/hemalathav875-cpu
+
+Thank you for visiting my profile! 😊
